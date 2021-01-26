@@ -16,8 +16,11 @@ It's an Alternative For Original Alexa, It Can Do Maximum Number of Operations L
 -FOR TIME              :-"ALEXA WHATS THE TIME (OR) TIME
 
 and some funny commands like
+
 -ALEXA ARE YOU SINGLE
+
 -ALEXA CAN WE GO FOR A DATE
+
 -ALEXA TELL ME A JOKE
 
 
